@@ -1,6 +1,7 @@
 # Desafio semana 1
 
 ## 📝: Vamos criar nosso primeiro projeto, uma loja virtual com carrinho de compras !!! o/
+### 💻 Integrantes: Rafael Shaday Dias Roco, Benivaldo Honorio, Aleff Diniz, Gustavo José Oliveira Santos
 
 ## 📚: Funcionalidades a nossa loja deve ter:
 * Estoque
